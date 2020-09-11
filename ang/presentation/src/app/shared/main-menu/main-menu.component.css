@@ -1,0 +1,9 @@
+.layout-topbar{
+    background-color: #816f71;
+    display: flex;
+    align-items: center;
+}
+
+.layout-topbar button{
+    margin-left: 3%;
+}
