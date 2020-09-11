@@ -1,0 +1,8 @@
+This is the skeleton of the project.
+Project contains three modules: domain, persistence and web using springboot.
+All three modules are built using Maven.
+Domain is used for models, dto's and entities.
+Persistence is used for storing, accessing, and managing Java objects in a relational database. 
+In future I will used MySql. Now the datas are mocked.
+The web module is for rest services in order to use them on front-end.
+For front-end I use angular.
